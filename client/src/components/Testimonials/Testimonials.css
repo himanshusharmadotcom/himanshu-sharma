@@ -1,0 +1,55 @@
+.testimonial-before::before {
+    @apply text-primary;
+    content: 'Testimonials';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 120px;
+    font-weight: 900;
+    text-transform: uppercase;
+    opacity: 0.09;
+    z-index: 1;
+}
+
+@media (max-width: 640px) {
+    .testimonial-before::before {
+        display: none;
+    }
+}
+
+/* carousel style */
+
+.react-multiple-carousel__arrow {
+    @apply bg-primary text-primary rounded-none
+}
+
+.react-multiple-carousel__arrow:hover {
+    @apply bg-secondary text-secondary
+}
+
+.react-multiple-carousel__arrow--left {
+    right: 80px;
+    top: 20px;
+    left: auto;
+}
+
+.react-multiple-carousel__arrow--right {
+    right: 20px;
+    top: 20px;
+    left: auto;
+}
+
+.react-multi-carousel-dot-list {
+    padding-bottom: 20px;
+}
+
+.react-multi-carousel-dot-list button {
+    @apply bg-primary border-[1px] border-solid border-secondary;
+}
+
+.react-multi-carousel-dot--active button {
+    @apply bg-primary;
+}
+

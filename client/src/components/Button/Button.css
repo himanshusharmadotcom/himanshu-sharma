@@ -1,0 +1,7 @@
+.custom-button {
+    @apply bg-gradient-to-b from-white to-primary;
+}
+
+.custom-button:hover {
+    @apply bg-gradient-to-b from-primary to-white;
+}

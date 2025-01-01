@@ -1,0 +1,122 @@
+[
+  {
+    "name": "E-commerce Platform",
+    "overview": "A comprehensive e-commerce platform that allows users to browse products, add them to the cart, and make purchases online.",
+    "techStack": ["React", "Tailwind CSS", "Node.js"],
+    "completionDate": "2023-01-15",
+    "image": "myGleeoProject",
+    "role": "Frontend Developer",
+    "category": "E-commerce",
+    "liveUrl": "https://example.com/e-commerce-platform"
+  },
+  {
+    "name": "Social Media App",
+    "overview": "A social media application where users can create profiles, post updates, and interact with friends.",
+    "techStack": ["Vue", "Vuetify", "Firebase"],
+    "completionDate": "2023-02-20",
+    "image": "myGleeoProject",
+    "role": "Full Stack Developer",
+    "category": "Social Media",
+    "liveUrl": "https://example.com/social-media-app"
+  },
+  {
+    "name": "Project Management Tool",
+    "overview": "A tool designed to help teams manage projects, track progress, and collaborate effectively.",
+    "techStack": ["Angular", "Bootstrap", "Express"],
+    "completionDate": "2023-03-10",
+    "image": "myGleeoProject",
+    "role": "Backend Developer",
+    "category": "Productivity",
+    "liveUrl": "https://example.com/project-management-tool"
+  },
+  {
+    "name": "Personal Blog",
+    "overview": "A personal blog platform where users can write articles, share thoughts, and engage with readers.",
+    "techStack": ["Svelte", "Tailwind CSS", "Node.js"],
+    "completionDate": "2023-04-05",
+    "image": "myGleeoProject",
+    "role": "Frontend Developer",
+    "category": "Blog",
+    "liveUrl": "https://example.com/personal-blog"
+  },
+  {
+    "name": "Portfolio Website",
+    "overview": "A portfolio website to showcase personal projects, skills, and professional experience.",
+    "techStack": ["React", "Material-UI", "Firebase"],
+    "completionDate": "2023-05-12",
+    "image": "myGleeoProject",
+    "role": "Full Stack Developer",
+    "category": "Portfolio",
+    "liveUrl": "https://example.com/portfolio-website"
+  },
+  {
+    "name": "Online Learning Platform",
+    "overview": "An online learning platform offering a variety of courses and resources for students.",
+    "techStack": ["Vue", "Tailwind CSS", "Node.js"],
+    "completionDate": "2023-06-18",
+    "image": "myGleeoProject",
+    "role": "Backend Developer",
+    "category": "Education",
+    "liveUrl": "https://example.com/online-learning-platform"
+  },
+  {
+    "name": "Fitness Tracker",
+    "overview": "A fitness tracker application that helps users monitor their workouts, diet, and overall health.",
+    "techStack": ["Angular", "Bootstrap", "Firebase"],
+    "completionDate": "2023-07-22",
+    "image": "myGleeoProject",
+    "role": "Frontend Developer",
+    "category": "Health",
+    "liveUrl": "https://example.com/fitness-tracker"
+  },
+  {
+    "name": "Recipe Sharing App",
+    "overview": "An app where users can share and discover new recipes, complete with ingredients and cooking instructions.",
+    "techStack": ["Svelte", "Tailwind CSS", "Express"],
+    "completionDate": "2023-08-30",
+    "image": "myGleeoProject",
+    "role": "Full Stack Developer",
+    "category": "Food",
+    "liveUrl": "https://example.com/recipe-sharing-app"
+  },
+  {
+    "name": "Travel Booking Site",
+    "overview": "A travel booking site that allows users to search for flights, hotels, and rental cars.",
+    "techStack": ["React", "Chakra UI", "Node.js"],
+    "completionDate": "2023-09-15",
+    "image": "myGleeoProject",
+    "role": "Backend Developer",
+    "category": "Travel",
+    "liveUrl": "https://example.com/travel-booking-site"
+  },
+  {
+    "name": "Event Management System",
+    "overview": "A system to manage events, including registration, scheduling, and attendee tracking.",
+    "techStack": ["Vue", "Vuetify", "Express"],
+    "completionDate": "2023-10-05",
+    "image": "myGleeoProject",
+    "role": "Frontend Developer",
+    "category": "Events",
+    "liveUrl": "https://example.com/event-management-system"
+  },
+  {
+    "name": "Job Portal",
+    "overview": "A job portal that connects job seekers with employers, featuring job listings and application tracking.",
+    "techStack": ["Angular", "Tailwind CSS", "Firebase"],
+    "completionDate": "2023-11-10",
+    "image": "myGleeoProject",
+    "role": "Full Stack Developer",
+    "category": "Jobs",
+    "liveUrl": "https://example.com/job-portal"
+  },
+  {
+    "name": "Music Streaming Service",
+    "overview": "A music streaming service that allows users to listen to their favorite songs and create playlists.",
+    "techStack": ["Svelte", "Bootstrap", "Node.js"],
+    "completionDate": "2023-12-20",
+    "image": "myGleeoProject",
+    "role": "Backend Developer",
+    "category": "Music",
+    "liveUrl": "https://example.com/music-streaming-service"
+  }
+]

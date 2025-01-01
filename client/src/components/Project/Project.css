@@ -1,0 +1,20 @@
+.work-before::before {
+    @apply text-primary;
+    content: 'My Work';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 120px;
+    font-weight: 900;
+    text-transform: uppercase;
+    opacity: 0.09;
+    z-index: 1;
+}
+
+@media (max-width: 640px) {
+    .work-before::before {
+        display: none;
+    }
+}

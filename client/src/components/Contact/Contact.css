@@ -1,0 +1,10 @@
+.contact-image{
+    filter: drop-shadow(10px 10px 0 #8c8c8c);
+    width: 280px;
+}
+
+@media(max-width: 640px){
+    .contact-image{
+        width: 150px;
+    }
+}
